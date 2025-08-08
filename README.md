@@ -16,4 +16,4 @@ Authentication: Firebase Authentication (Email/Google)
 Routing: React Router
 Icons: Lucide React
 
-WhatsApp Video 2025-03-26 at 13.38.47.zip
+
